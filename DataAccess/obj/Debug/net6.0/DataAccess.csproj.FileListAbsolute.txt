@@ -1,0 +1,14 @@
+D:\Workspace\CoffeeShop\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Workspace\CoffeeShop\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Workspace\CoffeeShop\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Workspace\CoffeeShop\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Workspace\CoffeeShop\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
